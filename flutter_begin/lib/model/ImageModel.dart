@@ -1,0 +1,3 @@
+class MyImage{
+  String image;
+}
